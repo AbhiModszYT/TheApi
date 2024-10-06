@@ -1,7 +1,7 @@
 ##### Installation
 
 ```sh
-pip install git+https://github.com/Vivekkumar-IN/TheApi@main
+pip install git+https://github.com/AbhiModszYT/TheApi@main
 ```
 
 ---
@@ -424,4 +424,4 @@ https://envs.sh/0Q7.jpg
 ```
 
 
-This Project is Licensed under [MIT License](https://github.com/Vivekkumar-IN/TheApi/blob/main/LICENSE)
+This Project is Licensed under [MIT License](https://github.com/AbhiModszYT/TheApi/blob/main/LICENSE)
